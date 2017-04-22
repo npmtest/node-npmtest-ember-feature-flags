@@ -1,4 +1,7 @@
-# test coverage for  [ember-feature-flags (v3.0.0)](https://github.com/kategengler/ember-feature-flags#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-feature-flags.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-feature-flags) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-feature-flags.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-feature-flags)
+# npmtest-ember-feature-flags
+
+#### basic test coverage for  [ember-feature-flags (v3.0.0)](https://github.com/kategengler/ember-feature-flags#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-feature-flags.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-feature-flags) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-feature-flags.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-feature-flags)
+
 #### Feature flags/toggles for Ember apps
 
 [![NPM](https://nodei.co/npm/ember-feature-flags.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-feature-flags)
@@ -105,7 +108,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
